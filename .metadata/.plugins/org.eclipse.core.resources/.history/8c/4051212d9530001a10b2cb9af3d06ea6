@@ -1,0 +1,10 @@
+package com.aln1tech.dp.duck.impl.fly.copy;
+
+import com.aln1tech.dp.duck.behaviour.IFlyBehaviour;
+
+public class JetFlyImpl implements IFlyBehaviour {
+
+	public void fly() {
+		System.out.println("JET Fly");
+	}
+}

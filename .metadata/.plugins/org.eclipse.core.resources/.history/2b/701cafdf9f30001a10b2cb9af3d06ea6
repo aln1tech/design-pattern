@@ -1,0 +1,5 @@
+package com.aln1tech.dp.duck.behaviour.impl.display;
+
+public class GraphicalDisplayImpl {
+
+}

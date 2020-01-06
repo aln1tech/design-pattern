@@ -1,0 +1,11 @@
+package com.aln1tech.dp.duck.impl.quack;
+
+import com.aln1tech.dp.duck.IQuackBehaviour;
+
+public class NoQuack implements IQuackBehaviour {
+
+	public void quack() {
+		System.out.println("No Quack");
+	}
+
+}

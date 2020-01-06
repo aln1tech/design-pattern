@@ -1,0 +1,7 @@
+package com.aln1tech.dp.duck.impl;
+
+import com.aln1tech.dp.duck.IFlyBehaviour;
+
+public class SimpleFlyImpl implements IFlyBehaviour{
+	
+}

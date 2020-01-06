@@ -1,0 +1,23 @@
+package com.aln1tech.dp.duck;
+
+public class Duck {
+	
+	private IQuack iQuack;
+	
+	private IDisplay iDisplay;
+	
+	private IFlyBehaviour iFly;
+	
+	
+	public void quack() {
+
+	}
+
+	public void fly() {
+
+	}
+
+	public void display() {
+
+	}
+}
