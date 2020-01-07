@@ -19,10 +19,6 @@ public class Duck implements IQuackBehaviour, IFlyBehaviour, IDisplayBehaviour {
 		this.iFly = iFly;
 	}
 
-	public void quack() {
-		this.iQuack.quack();
-	}
-
 	public void fly() {
 		iFly.fly();
 	}
@@ -30,4 +26,9 @@ public class Duck implements IQuackBehaviour, IFlyBehaviour, IDisplayBehaviour {
 	public void display() {
 		iDisplay.display();
 	}
+
+	public void quack() {
+		this.iQuack.quack();
+	}
+
 }
