@@ -8,7 +8,7 @@ The strategy pattern. defines a family of algorithms, encapsulates each algorith
 * [UML](#uml-diagram)
 
 ## PROBLEM NOTE
-![alt text](https://github.com/aln1tech/design-pattern/blob/master/observer-pattern/src/main/resources/uml/strategy-pattern-problem-note.png"Rough Diagram")
+![alt text](https://github.com/aln1tech/design-pattern/blob/master/strategy-pattern-ex/src/main/resources/uml/strategy-pattern-problem-note.png "Rough Diagram")
 
 
 ## UML

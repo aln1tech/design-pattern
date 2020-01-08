@@ -6,7 +6,7 @@ It defines a one to many relationship dependency between objects. When one objec
 * [UML](#uml-diagram)
 
 ## PROBLEM NOTE
-![alt text](https://github.com/aln1tech/design-pattern/blob/master/observer-pattern/src/main/resources/uml/observer-pattern-problem-note.png"Rough Diagram")
+![alt text](https://github.com/aln1tech/design-pattern/blob/master/observer-pattern/src/main/resources/uml/observer-pattern-problem-note.png "Rough Diagram")
 
 ## UML
-![alt text](https://github.com/aln1tech/design-pattern/blob/master/observer-pattern/src/main/resources/uml/observer-pattern.png"UML Diagram")
+![alt text](https://github.com/aln1tech/design-pattern/blob/master/observer-pattern/src/main/resources/uml/observer-pattern.png "UML Diagram")
