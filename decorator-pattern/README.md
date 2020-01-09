@@ -9,7 +9,7 @@ Inheritance is not for code for reuse or sharing an objects. only without using 
 * [UML](#uml-diagram)
 
 ## PROBLEM NOTE
-![alt text](https://github.com/aln1tech/design-pattern/blob/master/decorator-pattern/src/main/resources/uml/decorator -pattern-problem-note.png "Rough Diagram")
+![alt text](https://github.com/aln1tech/design-pattern/blob/master/decorator-pattern/src/main/resources/uml/decorator-pattern-problem-note.png "Rough Diagram")
 
 ## UML
-![alt text](https://github.com/aln1tech/design-pattern/blob/master/decorator-pattern/src/main/resources/uml/decorator -pattern.png "UML Diagram")
+![alt text](https://github.com/aln1tech/design-pattern/blob/master/decorator-pattern/src/main/resources/uml/decorator-pattern.png "UML Diagram")
